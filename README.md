@@ -1,31 +1,31 @@
 <div align="center">
 
   <!-- Animated Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E40AF,100:3B82F6&height=220&section=header&text=Mahmud%20Al%20Hasan&fontSize=48&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Backend%20Architect%20%E2%80%A2%20Mobile%20%E2%80%A2%20Full-Stack&descAlignY=58&descSize=18" width="100%" alt="Mahmud Al Hasan Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E40AF,100:3B82F6&height=220&section=header&text=Mahmud%20Al%20Hasan&fontSize=48&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Backend%20Architect%20%E2%80%A2%20Mobile%20%E2%80%A2%20Contributor%20Since%202014&descAlignY=58&descSize=17" width="100%" alt="Mahmud Al Hasan Header Banner" />
 
   <br />
 
-  <!-- Action Badges -->
+  <!-- Action & Milestone Badges -->
   <a href="https://hasancse-iyi.github.io/portfolio-one/"><img src="https://img.shields.io/badge/Live_Portfolio-hasancse--iyi.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mahmud-al-hasan/"><img src="https://img.shields.io/badge/LinkedIn-Mahmud_Al_Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
   <a href="mailto:mahmud.csem@gmail.com"><img src="https://img.shields.io/badge/Email-mahmud.csem%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
-  <a href="https://github.com/HasanCSE-IYI"><img src="https://img.shields.io/badge/GitHub-HasanCSE--IYI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/HasanCSE-IYI"><img src="https://img.shields.io/badge/GitHub_Member-Since_April_2014_(12%2B_Yrs)-059669?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Since 2014" /></a>
 
   <br /><br />
 
   <!-- Animated Typewriter Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=⚡+Building+Sub-60ms+Distributed+Microservices;📱+Architecting+Offline-First+Mobile+GIS+Systems;🤖+Engineering+Multi-Modal+AI+Platforms+%26+Edge+Streaming;🏗️+8%2B+Years+of+Senior+Software+Architecture+%26+Clean+Design" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=740&lines=🏛️+12%2B+Years+of+Continuous+GitHub+Presence+(2014+%E2%80%94+2026);⚡+Building+Sub-60ms+Distributed+Microservices+(ASP.NET+Core+%26+Python);📱+Architecting+Offline-First+Mobile+GIS+Systems+(Flutter+%26+Android);🤖+Engineering+Multi-Modal+AI+Platforms+%26+Edge+Streaming+Workflows" alt="Typing Animation" />
 
   <p align="center">
     <a href="#-executive-summary"><b>Summary</b></a> •
-    <a href="#-proven-impact--benchmarks"><b>Benchmarks</b></a> •
+    <a href="#-12-year-engineering-evolution-2014--2026"><b>12+ Year Journey</b></a> •
+    <a href="#-proven-impact--benchmarks"><b>Impact</b></a> •
     <a href="#-featured-engineering-showcase"><b>Featured Projects</b></a> •
     <a href="#️-system-architecture--engineering-standards"><b>Architecture</b></a> •
     <a href="#️-core-technology-stack"><b>Tech Stack</b></a> •
-    <a href="#-interactive-contribution-snake"><b>Activity Snake</b></a> •
     <a href="#-connect--collaborate"><b>Contact</b></a>
   </p>
 
@@ -35,12 +35,31 @@
 
 ### 🚀 Executive Summary
 
-Results-driven **Senior Software Engineer** with **8+ years** of hands-on experience designing, architecting, and scaling production software. Specializing in **high-throughput backend microservices (ASP.NET Core 8, Python/Django, Laravel)**, **offline-first mobile GIS architectures (Flutter & Native Android)**, and **reactive modern web platforms (Next.js 14, React, TypeScript)**.
+Active GitHub contributor and open-source engineer since **April 2014 (12+ years)**, with **8+ years of dedicated professional engineering experience** designing, architecting, and scaling production systems. My career spans foundational low-level systems programming up through modern high-throughput distributed microservices (**ASP.NET Core 8, Python/Django, Laravel**), offline-first mobile GIS architectures (**Flutter & Native Android**), and reactive edge-streamed AI web applications (**Next.js 14, TypeScript**).
 
+- 🏛️ **12+ Years of Software Continuity:** A decade-plus record of continuous software evolution, adapting across shifts in web, mobile, and cloud paradigms.
 - 🏗️ **Architecture & Clean Code:** Domain-Driven Design (DDD), Clean Architecture, Repository & Unit-of-Work patterns, and decoupled microservices.
-- ⚡ **Throughput & Low Latency:** Sub-60ms API response thresholds, optimized LINQ query pipelines, in-memory Redis caching, and robust indexing.
+- ⚡ **Throughput & Low Latency:** Sub-60ms API response thresholds, optimized LINQ query pipelines, in-memory Redis caching, and robust database indexing.
 - 📱 **Mobile & Offline-First:** Resilient local-first architectures with SQLite, Riverpod, background synchronization, and touch-first ergonomics.
-- 👥 **Technical Leadership:** Co-founder & engineering lead experience managing API contract standards, code reviews, and maintaining 99.9% SLA uptime.
+- 👥 **Technical Leadership:** Co-founder & engineering lead experience establishing API contract standards, mentoring engineers, and maintaining 99.9% SLA uptime.
+
+---
+
+### ⏳ 12+ Year Engineering Evolution (2014 — 2026)
+
+```
+2014 ──► Core C/C++ Systems & Relational Schema Foundations
+2018 ──► Enterprise Web Frameworks, Django REST & Laravel Microservices
+2022 ──► ASP.NET Core Clean Architecture, Cross-Platform Flutter & Cloud
+2026 ──► High-Throughput Distributed Microservices, Mobile GIS & Edge AI
+```
+
+| Era & Phase | Technological Milestones | Engineering Focus |
+| :--- | :--- | :--- |
+| **Foundations & Core Systems**<br>`2014 — 2017` | • **C / C++ / Java**<br>• Relational SQL & Normalization<br>• OOP Modeling & Data Structures | Built fundamental algorithmic rigor, low-level memory awareness, computational complexity analysis, and database schema foundations. |
+| **Web Platforms & API Ecosystems**<br>`2018 — 2021` | • **Python / Django / DRF**<br>• PHP & Laravel MVC Ecosystems<br>• MySQL Composite Indexing & Docker | Engineered scalable RESTful web APIs, backend MVC services, user authentication pipelines, and containerized development stacks. |
+| **Enterprise Architecture & Mobile**<br>`2022 — 2024` | • **ASP.NET Core 8 & EF Core**<br>• Flutter & Riverpod 2.0 (Mobile)<br>• Redis Distributed Caching & AWS | Architected enterprise APIs with Clean Architecture and Unit-of-Work, pioneered offline SQLite mobile persistence, and led engineering teams. |
+| **Distributed Systems, GIS & Edge AI**<br>`2025 — 2026` | • **Mobile GIS Engines (Chittago/Mappi)**<br>• Next.js 14 App Router & TypeScript<br>• OpenAI Edge Streaming & Sub-60ms APIs | Architected zero-dependency offline vector GIS navigation engines, high-concurrency microservices, and edge-streamed generative AI SaaS platforms. |
 
 ---
 
@@ -50,7 +69,8 @@ Results-driven **Senior Software Engineer** with **8+ years** of hands-on experi
 
 | Metric | Benchmark & Scope | Technical Context |
 | :---: | :--- | :--- |
-| **8+ Years** | Production Engineering | Enterprise backends in ASP.NET Core, Laravel, and Python ecosystems |
+| **12+ Years** | GitHub Member & Contributor | Continuous software engineering & open-source presence since April 2014 |
+| **8+ Years** | Production Enterprise Systems | Enterprise backends in ASP.NET Core, Laravel, and Python ecosystems |
 | **<60ms** | REST API Response Latency | Optimized LINQ query pipelines, indexed DB lookups & in-memory caching |
 | **99.9%** | Production SLA Uptime | Multi-tier telemedicine & e-commerce microservices deployed via Docker on AWS |
 | **100% Offline** | Resilient Mobile GIS | Zero-dependency offline vector routing & POI indexing for Android & Flutter |
