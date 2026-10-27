@@ -1,16 +1,25 @@
 <div align="center">
 
   # 👨‍💻 Mahmud Al Hasan
-  ### **Senior Software Engineer | Backend Architect • Mobile (Flutter & Android) • Full-Stack**
+  ### **Senior Software Engineer | Backend Architect • Mobile (Flutter & Android) • Full-Stack Systems**
   
-  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-hasancse--iyi.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hasancse-iyi.github.io/portfolio-one/)
+  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-hasancse--iyi.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hasancse-iyi.github.io/portfolio-one/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmud_Al_Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmud-al-hasan/)
   [![Email](https://img.shields.io/badge/Email-mahmud.csem%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmud.csem@gmail.com)
   [![GitHub Repositories](https://img.shields.io/badge/GitHub-HasanCSE--IYI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasanCSE-IYI)
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=8%2B+Years+of+Software+Engineering+Excellence;High-Performance+ASP.NET+Core+%26+Python+Backends;Offline-First+Mobile+Architectures+(Flutter+%26+Android);Production-Grade+Clean+Architecture+%26+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=680&lines=8%2B+Years+of+Software+Engineering+Excellence;High-Performance+ASP.NET+Core+%26+Python+Backends;Offline-First+Mobile+Architectures+(Flutter+%26+Android);Production-Grade+Clean+Architecture+%26+Distributed+Systems" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="#-executive-summary"><b>Executive Summary</b></a> •
+    <a href="#-proven-impact--benchmarks"><b>Impact Benchmarks</b></a> •
+    <a href="#-featured-engineering-showcase"><b>Featured Projects</b></a> •
+    <a href="#️-system-architecture--engineering-standards"><b>Architecture Standards</b></a> •
+    <a href="#️-core-technology-stack"><b>Tech Stack</b></a> •
+    <a href="#-connect--collaborate"><b>Contact</b></a>
+  </p>
 
 </div>
 
@@ -53,6 +62,7 @@ Results-driven **Senior Software Engineer** with **8+ years** of hands-on experi
         <img src="https://img.shields.io/badge/Kotlin-Native_Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Arch-Clean_Architecture-0284c7?style=flat-square" />
         <img src="https://img.shields.io/badge/Offline-Zero_API_Cost-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
       </p>
     </td>
     <td width="50%">
@@ -63,6 +73,7 @@ Results-driven **Senior Software Engineer** with **8+ years** of hands-on experi
         <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/State-Riverpod-blueviolet?style=flat-square" />
         <img src="https://img.shields.io/badge/Engine-MapLibre_OSM-059669?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -75,6 +86,7 @@ Results-driven **Senior Software Engineer** with **8+ years** of hands-on experi
         <img src="https://img.shields.io/badge/C%23-ASP.NET_Core_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/ORM-Entity_Framework_Core-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Auth-JWT_RBAC-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Latency-%3C60ms-success?style=flat-square" />
       </p>
     </td>
     <td width="50%">
@@ -85,6 +97,7 @@ Results-driven **Senior Software Engineer** with **8+ years** of hands-on experi
         <img src="https://img.shields.io/badge/Flutter-Material_3-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Storage-SQLite_(sqflite)-003B57?style=flat-square&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/State-Riverpod-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -97,6 +110,7 @@ Results-driven **Senior Software Engineer** with **8+ years** of hands-on experi
         <img src="https://img.shields.io/badge/Next.js_14-App_Router-000000?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-Full_Stack-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/AI-OpenAI_Edge_Streaming-412991?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
       </p>
     </td>
     <td width="50%">
@@ -107,6 +121,7 @@ Results-driven **Senior Software Engineer** with **8+ years** of hands-on experi
         <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/SCSS-Modular_Styling-CC6699?style=flat-square&logo=sass&logoColor=white" />
         <img src="https://img.shields.io/badge/Status-Active_Production-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -114,11 +129,39 @@ Results-driven **Senior Software Engineer** with **8+ years** of hands-on experi
 
 ---
 
+### 🏛️ System Architecture & Engineering Standards
+
+```
+                      ┌─────────────────────────────────────────┐
+                      │          Presentation Layer             │
+                      │  Next.js 14 / Flutter / Native Android  │
+                      └────────────────────┬────────────────────┘
+                                           │  RESTful / JWT Bearer
+                                           ▼
+                      ┌─────────────────────────────────────────┐
+                      │          Application & Domain           │
+                      │  ASP.NET Core 8 / Python / Clean Arch   │
+                      └────────────────────┬────────────────────┘
+                                           │  Repository & Unit of Work
+                                           ▼
+                      ┌─────────────────────────────────────────┐
+                      │            Persistence & Cache          │
+                      │  EF Core • PostgreSQL • Redis • SQLite  │
+                      └─────────────────────────────────────────┘
+```
+
+- **Clean Architecture & Separation of Concerns:** Domain business rules remain decoupled from framework dependencies, database drivers, and third-party SDKs for testability.
+- **Offline-First Synchronization:** Local-first transactional SQLite storage with optimistic UI updates, conflict resolution, and background sync queues for mobile environments.
+- **Zero-Trust Security & RBAC:** Role-based claims access control, cryptographically secure JWT bearer tokens, sliding expiration, and strict payload sanitization.
+- **Observability & Reliability:** Structured logging, container health-checks, sub-60ms indexed database queries with in-memory Redis caching, and automated CI/CD checks.
+
+---
+
 ### 🛠️ Core Technology Stack
 
 <div align="left">
 
-#### ⚙️ Backend & API Engineering
+#### ⚙️ Backend & Distributed APIs
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -170,9 +213,17 @@ Results-driven **Senior Software Engineer** with **8+ years** of hands-on experi
 
 ---
 
+### 🧭 Current Engineering Focus & Exploration
+
+- 🔭 **Currently Architecting:** High-performance offline vector GIS map rendering engines & Edge AI streaming microservices.
+- 🌱 **Actively Exploring:** Distributed consensus protocols, WebAssembly (Wasm) runtimes, and low-latency Rust systems.
+- 💬 **Ask Me About:** ASP.NET Core & C#, Clean Architecture, Flutter reactive state management (Riverpod), offline GIS/MapLibre, and scalable RESTful APIs.
+
+---
+
 ### 🤝 Connect & Collaborate
 
-I am always interested in discussing high-performance backend architectures, offline-first mobile projects, open-source initiatives, and engineering leadership opportunities.
+I am always interested in discussing high-performance backend architectures, offline-first mobile systems, open-source initiatives, and engineering leadership opportunities.
 
 <div align="center">
 
