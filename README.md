@@ -160,15 +160,13 @@ Results-driven **Senior Software Engineer** with **8+ years** of hands-on experi
 
 ---
 
-### 📈 GitHub Insights & Top Languages
+### 💻 Core Language Distribution & Codebase Breakdown
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanCSE-IYI&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanCSE-IYI&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" />
 </div>
 
-> *Tip: GitHub stats include private commits and multi-branch contributions.*
+> *Breakdown reflects production repositories across Mobile GIS, Backend Microservices, and Full-Stack Web.*
 
 ---
 
